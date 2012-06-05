@@ -1,4 +1,4 @@
-:- udi(roads(-,rtree),'base').
+:- udi(roads(-,rtree)).
 :- ['../data/roads.yap'].
 
 %base.dat dados Yap_export_term tabelas
